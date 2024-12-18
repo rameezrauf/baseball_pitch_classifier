@@ -1,7 +1,6 @@
 # Image Classification with TensorFlow
 
-Welcome to the **Image Classification with TensorFlow** repository! This project involves building a deep learning model to classify images into different categories. The project includes data preprocessing, cleaning, and training a convolutional neural network (CNN) using TensorFlow.
-This project was created in Octiber, 2023. 
+Welcome to the **Image Classification with TensorFlow** repository! This project involves building a deep learning model to classify images into different categories. The project includes data preprocessing, cleaning, and training a convolutional neural network (CNN) using TensorFlow. This project was created in Octiber, 2023. 
 ---
 
 ## Table of Contents
