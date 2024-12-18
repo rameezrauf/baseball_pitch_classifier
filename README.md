@@ -63,3 +63,5 @@ The project employs a custom convolutional neural network (CNN) built with Tenso
 - **Dataset Expansion:** Incorporate more diverse datasets to improve generalization.
 - **Model Optimization:** Experiment with transfer learning and pre-trained models.
 - **Web Integration:** Build a web app for real-time image classification.
+
+This project was created with the help of Nicholas Renotte. The link to his contributions can be found through here [Nicholas Renotte](https://www.youtube.com/watch?v=jztwpsIzEGc)
